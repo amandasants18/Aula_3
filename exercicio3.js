@@ -1,21 +1,9 @@
 
 function divisao(num1,num2){
 
-    
-
         return num1/num2 
         
-        }
-
-      
-
-    
-
-
-
-
-
-
+}
 console.log("O resultado da divisão é  : " +divisao(14,7))
 
 
